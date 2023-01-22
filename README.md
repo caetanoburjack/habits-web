@@ -12,5 +12,5 @@ This project covers backend with nodeJs and Prisma, FrontEnd with ReactJS for we
 * phosphor-react
 * tailwindcss
 * typescript
-* vite
+* [vite](https://vitejs.dev/guide/)
 * [radix](https://www.radix-ui.com/docs/primitives/overview/introduction)
