@@ -13,3 +13,4 @@ This project covers backend with nodeJs and Prisma, FrontEnd with ReactJS for we
 * tailwindcss
 * typescript
 * vite
+* [radix](https://www.radix-ui.com/docs/primitives/overview/introduction)
